@@ -1,4 +1,4 @@
-![Screenshot 2025-04-27 143430](https://github.com/user-attachments/assets/3b61b8b8-81da-4f33-b546-4b181d1ddb1c)### ENCODER 8TO3 DATAFLOW Modelling
+
 
 **AIM:**
 
