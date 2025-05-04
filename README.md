@@ -51,8 +51,8 @@ For different input combinations generate the timing diagram.
 ![Screenshot 2025-04-27 143418](https://github.com/user-attachments/assets/7af8ffd0-23c0-4586-815d-620bc2a39dd8)
 
 
-Developed by:AHAMADH SULAIMAN M 
-RegisterNumber:212224230009
+Developed by:ARUNRAJ R
+RegisterNumber:212224110006
 
 **RTL LOGIC FOR Encoder 8 To 3 in Dataflow Modelling**
 
